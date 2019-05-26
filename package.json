@@ -1,0 +1,19 @@
+{
+  "name": "vue-recreation",
+  "version": "1.0.0",
+  "description": "attempt to create Vue framework from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Todmy/vue-recreation.git"
+  },
+  "author": "todmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Todmy/vue-recreation/issues"
+  },
+  "homepage": "https://github.com/Todmy/vue-recreation#readme"
+}
